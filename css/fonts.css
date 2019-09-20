@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'latobold';
+    src: url('../font/lato/lato-bold.eot');
+    src: url('../font/lato/lato-bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/lato/lato-bold.woff') format('woff'),
+         url('../font/lato/lato-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.latoBold {
+    font-family: 'latobold';
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('../font/lato/lato-regular.eot');
+    src: url('../font/lato/lato-regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/lato/lato-regular.woff') format('woff'),
+         url('../font/lato/lato-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.latoReg {
+    font-family: 'latoregular';
+}
+
+
+@font-face {
+    font-family: 'sredaregular';
+    src: url('../font/sreda/sreda_regular.eot');
+    src: url('../font/sreda/sreda_regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/sreda/sreda_regular.woff') format('woff'),
+         url('../font/sreda/sreda_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.sredaReg {
+    font-family: 'sredaregular';
+}
